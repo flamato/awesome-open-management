@@ -1,8 +1,8 @@
 # Awesome Open Management
 ## Contents
 ## Management
-## Open Source Model
-## Management of Open Source Projects
+## Open-Source Model
+## Management of Open-Source Projects
 ## Cryptocurrencies and tokens
 ## Token-Incentivized Open Collaboration
 ## Token-Incentivized Open Management of Token-Incentivized Open Collaboration
