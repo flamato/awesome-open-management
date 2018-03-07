@@ -3,7 +3,7 @@
 ## Management
 ## Open-Source Model
 ## Management of Open-Source Projects
-## Cryptocurrencies and tokens
+## Cryptocurrencies and Tokens
 ## Token-Incentivized Open Collaboration
 ## Token-Incentivized Open Management of Token-Incentivized Open Collaboration
 ## License
