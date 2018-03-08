@@ -12,7 +12,7 @@
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - A list of crypto readings and resources.
 ## Management of Open-Source Projects
 - [Open Source Guides](https://opensource.guide/) - Open source guides.
-- [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation
+- [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
 ## Token-Incentivized Open Collaboration
 ## License
 
