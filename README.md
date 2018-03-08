@@ -2,6 +2,7 @@
 ## Contents
 - [Intro](#intro)
 - [Management of Open-Source Projects](#management-of-open-source-projects)
+- [Blockchain Governance](#blockchain-governance)
 - [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
 ## Intro
 - [Management](https://en.wikipedia.org/wiki/Management)
@@ -13,6 +14,7 @@
 ## Management of Open-Source Projects
 - [Open Source Guides](https://opensource.guide/) - Open source guides.
 - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
+## Blockchain Governance
 ## Token-Incentivized Open Collaboration
 ## License
 
