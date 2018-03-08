@@ -1,10 +1,10 @@
 # Awesome Open Management
 ## Contents
-- [Intro](#intro)
+- [Foundations](#Foundations)
 - [Open-Source Project Leadership](#open-source-project-leadership)
 - [Blockchain Governance](#blockchain-governance)
 - [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
-## Intro
+## Foundations
 - [Management](https://en.wikipedia.org/wiki/Management)
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
 - [The Open-Source Model](https://en.wikipedia.org/wiki/Open-source_model)
