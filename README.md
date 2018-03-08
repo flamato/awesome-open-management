@@ -6,8 +6,9 @@
 - [Cryptocurrencies and Tokens](#cryptocurrencies-and-tokens)
 - [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
 ## Management
-- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome list of resources on leading people and being a manager.
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
 ## The Open-Source Model
+- [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list of awesome open companies.
 ## Managing Open-Source Projects 
 ## Cryptocurrencies and Tokens
 - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - A list of crypto readings and resources.
