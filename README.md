@@ -3,14 +3,13 @@
 - [Management](#management)
 - [The Open-Source Model](#the-open-source-model)
 - [Managment of Open-Source Projects](#managment-of-open-source-projects)
-- []()
-- []()
-- []()
+- [Cryptocurrencies and Tokens](#cryptocurrencies-and-tokens)
+- [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
 ## Management
 ## The Open-Source Model
 ## Managment of Open-Source Projects
 ## Cryptocurrencies and Tokens
-- [crypto canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
+- [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 ## Token-Incentivized Open Collaboration
 ## License
 
