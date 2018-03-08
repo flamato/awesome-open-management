@@ -1,8 +1,8 @@
-# Awesome Open Leadership
+# Awesome Open Management
 ## Contents
-## Leadership
+## Management
 ## The Open-Source Model
-## Leading Open-Source Projects
+## Managment of Open-Source Projects
 ## Cryptocurrencies and Tokens
 ## Token-Incentivized Open Collaboration
 ## License
