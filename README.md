@@ -8,6 +8,7 @@
 ## Management
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
 ## The Open-Source Model
+- [Open-source model](https://en.wikipedia.org/wiki/Open-source_model) - The open-source model's Wikipedia page.
 - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list of awesome open companies.
 ## Managing Open-Source Projects
 - [Open Source Guides](https://opensource.guide/) - Open Source Guides.
