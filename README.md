@@ -6,6 +6,7 @@
 - [Cryptocurrencies and Tokens](#cryptocurrencies-and-tokens)
 - [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
 ## Management
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome list of resources on leading people and being a manager.
 ## The Open-Source Model
 ## Managing Open-Source Projects 
 ## Cryptocurrencies and Tokens
