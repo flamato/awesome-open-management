@@ -1,6 +1,6 @@
 # Awesome Open Management
 ## Contents
-- [Foundations](#Foundations)
+- [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
 - [Cryptoeconomic Primitives](#cryptoeconomic-primitives)
 ## Foundations
@@ -9,11 +9,12 @@
 - [Open-Source](https://en.wikipedia.org/wiki/Open-source_model)
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list of open companies.
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-    - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - A list of crypto readings and resources.
+    - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s first three topics - A list of crypto readings and resources.
 ## Advanced Foundations
 - Open-Source Project Leadership
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
     - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
+    - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
 - Blockchain Governance
 ## Cryptoeconomic Primitives
 ## License
