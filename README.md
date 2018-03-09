@@ -1,8 +1,7 @@
 # Awesome Open Management
 ## Contents
 - [Foundations](#Foundations)
-- [Open-Source Project Leadership](#open-source-project-leadership)
-- [Blockchain Governance](#blockchain-governance)
+- [Advanced Foundations](#advanced-foundations)
 - [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
 ## Foundations
 - [Management](https://en.wikipedia.org/wiki/Management)
@@ -11,10 +10,11 @@
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list of open companies.
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - A list of crypto readings and resources.
-## Open-Source Project Leadership
-- [Open Source Guides](https://opensource.guide/) - Open source guides.
-- [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
-## Blockchain Governance
+## Advanced Foundations
+- Open-Source Project Leadership
+    - [Open Source Guides](https://opensource.guide/) - Open source guides.
+    - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
+- Blockchain Governance
 ## Token-Incentivized Open Collaboration
 ## License
 
