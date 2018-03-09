@@ -16,6 +16,7 @@
     - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
 - Blockchain Governance
+    - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s governance topic - A list of crypto readings and resources.
 ## Cryptoeconomic Primitives
 ## License
 
