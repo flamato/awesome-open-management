@@ -2,7 +2,7 @@
 ## Contents
 - [Foundations](#Foundations)
 - [Advanced Foundations](#advanced-foundations)
-- [Token-Incentivized Open Collaboration](#token-incentivized-open-collaboration)
+- [Cryptoeconomic Primitives](#cryptoeconomic-primitives)
 ## Foundations
 - [Management](https://en.wikipedia.org/wiki/Management)
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
@@ -15,7 +15,7 @@
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
     - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
 - Blockchain Governance
-## Token-Incentivized Open Collaboration
+## Cryptoeconomic Primitives
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
