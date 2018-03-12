@@ -1,5 +1,7 @@
 # Awesome Open Management
 ## Contents
+
+[![Join the chat at https://gitter.im/vulcansonline/awesome-open-management](https://badges.gitter.im/vulcansonline/awesome-open-management.svg)](https://gitter.im/vulcansonline/awesome-open-management?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
 ## Foundations
