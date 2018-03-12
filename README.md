@@ -10,6 +10,7 @@
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list about open companies.
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s first three topics - A list of crypto readings and resources.
+- [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
 ## Advanced Foundations
 - Open-Source Project Leadership
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
