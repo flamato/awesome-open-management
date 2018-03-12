@@ -2,7 +2,6 @@
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
-- [Cryptoeconomic Primitives](#cryptoeconomic-primitives)
 ## Foundations
 - [Management](https://en.wikipedia.org/wiki/Management)
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
@@ -18,7 +17,7 @@
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
 - Blockchain Governance
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s governance topic - A list of crypto readings and resources.
-## Cryptoeconomic Primitives
+- Cryptoeconomic Primitives
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
