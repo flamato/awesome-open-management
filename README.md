@@ -1,7 +1,7 @@
 # Awesome Open Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/vulcansonline/awesome-open-management](https://badges.gitter.im/vulcansonline/awesome-open-management.svg)](https://gitter.im/vulcansonline/awesome-open-management?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-My definition of open management: the act of transparently managing open collaboration by using cryptoeconomic tools.
+My definition of open management: the transparent management of open collaboration.
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
@@ -27,12 +27,16 @@ My definition of open management: the act of transparently managing open collabo
 - [Benevolent Dictatorship](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
 - Cryptoeconomic Primitives
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
-- [Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
+- [Knowledge Market](https://en.wikipedia.org/wiki/Knowledge_market)
     - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
     - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
 ## Execution
 - [Open Bounties](https://en.wikipedia.org/wiki/Bounty_(reward))
+    - [Gitcoin](https://gitcoin.co/)
+    - [Status Open Bounty](https://openbounty.status.im/)
+    - [The Bounties Network](https://bounties.network/)
+    - [Bounty0x](https://bounty0x.io/)
 - [Grants](https://en.wikipedia.org/wiki/Grant_(money))
 
 ## License
