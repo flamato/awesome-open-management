@@ -7,6 +7,7 @@ My definition of open management: the transparent management of open collaborati
 - [Advanced Foundations](#advanced-foundations)
 - [Decision Making](#decision-making)
 - [Execution](#execution)
+- [Miscellaneous](#miscellaneous)
 ## Foundations
 - [Management](https://en.wikipedia.org/wiki/Management)
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
@@ -29,8 +30,6 @@ My definition of open management: the transparent management of open collaborati
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
 - [Knowledge Market](https://en.wikipedia.org/wiki/Knowledge_market)
     - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
-- [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
-    - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
 ## Execution
 - [Open Bounties](https://en.wikipedia.org/wiki/Bounty_(reward))
     - [Gitcoin](https://gitcoin.co/)
@@ -38,6 +37,9 @@ My definition of open management: the transparent management of open collaborati
     - [The Bounties Network](https://bounties.network/)
     - [Bounty0x](https://bounty0x.io/)
 - [Grants](https://en.wikipedia.org/wiki/Grant_(money))
+## Miscellaneous
+- [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
+    - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
 
 ## License
 
