@@ -20,13 +20,17 @@ My definition of open management: the act of transparently managing open collabo
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
     - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
+- Cryptoeconomics
 - Blockchain Governance
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s governance topic - A list of crypto readings and resources.
 ## Decision Making
 - [Benevolent Dictatorship](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
-- [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
 - Cryptoeconomic Primitives
+    - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
 - [Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
+    - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
+- [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
+    - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
 ## Execution
 - [Open Bounties](https://en.wikipedia.org/wiki/Bounty_(reward))
 - [Grants](https://en.wikipedia.org/wiki/Grant_(money))
