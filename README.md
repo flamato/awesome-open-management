@@ -3,8 +3,10 @@
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
+- [Decision Making](#decision-making)
+- [Execution](#execution)
 ## Foundations
-- [Management](https://en.wikipedia.org/wiki/Management)
+- [Management](https://en.wikipedia.org/wiki/Management) - The control and organization of something.
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
 - [Open-Source](https://en.wikipedia.org/wiki/Open-source_model)
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list about open companies.
@@ -18,6 +20,8 @@
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
 - Blockchain Governance
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s governance topic - A list of crypto readings and resources.
+## Decision Making
+## Execution
 - Cryptoeconomic Primitives
 ## License
 
