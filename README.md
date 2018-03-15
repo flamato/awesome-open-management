@@ -25,9 +25,12 @@ The term 'open management' is used here as transparent management of open collab
 ## Decision Making
 - [Benevolent Dictatorship](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
+- Cryptoeconomic Primitives
 - [Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
 ## Execution
-- Cryptoeconomic Primitives
+- [Open Bounties](https://en.wikipedia.org/wiki/Bounty_(reward))
+- [Grants](https://en.wikipedia.org/wiki/Grant_(money))
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
