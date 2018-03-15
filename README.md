@@ -1,14 +1,16 @@
 # Awesome Open Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/vulcansonline/awesome-open-management](https://badges.gitter.im/vulcansonline/awesome-open-management.svg)](https://gitter.im/vulcansonline/awesome-open-management?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Transparent management of open collaboration using cryptoeconomic tools.
+>Curated collection of resources for open management.
+
+The term 'open management' is used here as the transparent management of open collaboration using cryptoeconomic tools.
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
 - [Decision Making](#decision-making)
 - [Execution](#execution)
 ## Foundations
-- [Management](https://en.wikipedia.org/wiki/Management) - The control and organization of something.
+- [Management](https://en.wikipedia.org/wiki/Management)
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
 - [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list about open companies.
