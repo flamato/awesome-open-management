@@ -1,7 +1,7 @@
 # Awesome Open Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/vulcansonline/awesome-open-management](https://badges.gitter.im/vulcansonline/awesome-open-management.svg)](https://gitter.im/vulcansonline/awesome-open-management?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-The term 'open management' is used here as the transparent management of open collaboration using cryptoeconomic tools.
+The term 'open management' is used here as transparent management of open collaboration using cryptoeconomic tools.
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
@@ -23,6 +23,9 @@ The term 'open management' is used here as the transparent management of open co
 - Blockchain Governance
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s governance topic - A list of crypto readings and resources.
 ## Decision Making
+- [Benevolent Dictatorship](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
+- [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
+- [Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
 ## Execution
 - Cryptoeconomic Primitives
 ## License
