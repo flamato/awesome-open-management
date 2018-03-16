@@ -37,6 +37,7 @@ This collection is organized around the idea of transparently managing open coll
     - [Status Open Bounty](https://openbounty.status.im/)
     - [The Bounties Network](https://bounties.network/)
     - [Bounty0x](https://bounty0x.io/)
+- [Freelancers](https://en.wikipedia.org/wiki/Freelancer)
 ## Miscellaneous
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
     - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
