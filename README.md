@@ -1,7 +1,7 @@
 # Awesome Open Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/vulcansonline/awesome-open-management](https://badges.gitter.im/vulcansonline/awesome-open-management.svg)](https://gitter.im/vulcansonline/awesome-open-management?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This collection is organized around the idea of transparently managing open collaboration with the help of cryptoeconomic tools; though open management in general can mean any act of management using open collaboration.
+Though one can call any act of managing by open collaboration open management, in this collection I decided to focus on the transparent management of open collaboration by a benevolent dictator with the help of cryptoeconomic tools, which I think of as the most exciting model for innovation, thus the awesome part of this field. 
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
