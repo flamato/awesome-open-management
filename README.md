@@ -1,7 +1,7 @@
 # Awesome Open Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/vulcansonline/awesome-open-management](https://badges.gitter.im/vulcansonline/awesome-open-management.svg)](https://gitter.im/vulcansonline/awesome-open-management?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Though one can call any act of managing by open collaboration open management, in this collection I decided to focus on the processes of transparent management of open collaboration by a benevolent dictator using cryptoeconomic tools, what I find the most exciting model for innovation management, thus the awesome part of this field. 
+Though one can call any act of managing by open collaboration open management, this collection is focusing on the processes of transparent management of open collaboration by a benevolent dictator using cryptoeconomic tools, what I find the most exciting model for managing innovation, thus the awesome part of this field. 
 ## Contents
 - [Foundations](#foundations)
 - [Advanced Foundations](#advanced-foundations)
@@ -40,7 +40,7 @@ Though one can call any act of managing by open collaboration open management, i
 - [Freelancers](https://en.wikipedia.org/wiki/Freelancer)
 ## Miscellaneous
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
-    - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/)
+    - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/) - Y Combinator's blog post on forks
     - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
 
 ## License
