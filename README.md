@@ -38,9 +38,10 @@ Though one can call any act of managing by open collaboration open management, t
     - [The Bounties Network](https://bounties.network/)
     - [Bounty0x](https://bounty0x.io/)
 - [Freelancers](https://en.wikipedia.org/wiki/Freelancer)
+    - [Ethlance](https://ethlance.com/)
 ## Miscellaneous
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
-    - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/) - Y Combinator's blog post on forks
+    - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/) - Y Combinator's blog post on forks.
     - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
 
 ## License
