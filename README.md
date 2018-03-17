@@ -33,15 +33,15 @@ Though one can call any act of managing by open collaboration open management, t
     - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
 ## Execution
 - [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming)
-    - [Kaggle](https://www.kaggle.com/)
-    - [Numerai](https://numer.ai/)
+    - [Kaggle](https://www.kaggle.com/) - A platform for predictive modelling and analytics competitions.
+    - [Numerai](https://numer.ai/) - An AI-run, crowd-sourced hedge fund with a crypto-token.
 - [Freelancing](https://en.wikipedia.org/wiki/Freelancer)
-    - [Ethlance](https://ethlance.com/)
+    - [Ethlance](https://ethlance.com/) - A job market platform that using only cryptocurrency for payments.
 - [Grants](https://en.wikipedia.org/wiki/Grant_(money))
 - [Open Bounties](https://en.wikipedia.org/wiki/Bounty_(reward))
-    - [Gitcoin](https://gitcoin.co/)
-    - [Status Open Bounty](https://openbounty.status.im/)
-    - [The Bounties Network](https://bounties.network/)
+    - [Gitcoin](https://gitcoin.co/) - A decentralized app for value creation and value capture.
+    - [Status Open Bounty](https://openbounty.status.im/) - A bounty-based open source collaboration tool.
+    - [The Bounties Network](https://bounties.network/) - A platform to outsource the completion of any task.
 ## Miscellaneous
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
     - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/) - Y Combinator's blog post on forks.
