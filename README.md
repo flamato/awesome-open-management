@@ -27,9 +27,10 @@ Though one can call any act of managing by open collaboration open management, t
 - [Benevolent Dictatorship](http://wiki.p2pfoundation.net/Benevolent_Dictator)
     - [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 - [Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
-    - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
+    - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
 - [Knowledge Market](https://en.wikipedia.org/wiki/Knowledge_market)
-    - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
+    - [Cent](https://www.cent.co) - A platform to enable anyone to earn money from anywhere.
+    - [DelegateCall](https://delegatecall.com) - Blockchain-based Q&A site.
 ## Execution
 - [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming)
     - [Kaggle](https://www.kaggle.com/) - A platform for predictive modelling and analytics competitions.
