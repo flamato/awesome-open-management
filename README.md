@@ -26,7 +26,7 @@ Though one can call any act of managing by open collaboration open management, t
 ## Decision Making
 - [Benevolent Dictatorship](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
     - [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-- Cryptoeconomic Primitives
+- [Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
 - [Knowledge Market](https://en.wikipedia.org/wiki/Knowledge_market)
     - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
