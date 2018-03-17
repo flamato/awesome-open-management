@@ -32,14 +32,16 @@ Though one can call any act of managing by open collaboration open management, t
 - [Knowledge Market](https://en.wikipedia.org/wiki/Knowledge_market)
     - [Awesome Knowledge Market](https://github.com/vulcansonline/awesome-knowledge-market)
 ## Execution
-- [Freelancers](https://en.wikipedia.org/wiki/Freelancer)
+- [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming)
+    - [Kaggle](https://www.kaggle.com/)
+    - [Numerai](https://numer.ai/)
+- [Freelancing](https://en.wikipedia.org/wiki/Freelancer)
     - [Ethlance](https://ethlance.com/)
 - [Grants](https://en.wikipedia.org/wiki/Grant_(money))
 - [Open Bounties](https://en.wikipedia.org/wiki/Bounty_(reward))
     - [Gitcoin](https://gitcoin.co/)
     - [Status Open Bounty](https://openbounty.status.im/)
     - [The Bounties Network](https://bounties.network/)
-    - [Bounty0x](https://bounty0x.io/)
 ## Miscellaneous
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
     - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/) - Y Combinator's blog post on forks.
