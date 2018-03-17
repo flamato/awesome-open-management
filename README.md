@@ -22,7 +22,6 @@ Though one can call any act of managing by open collaboration open management, t
     - [Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - A crash course by BlockChannel.
 - [Peer Governance](http://wiki.p2pfoundation.net/Peer_Governance)
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
-    - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
 ## Decision Making
 - [Benevolent Dictatorship](http://wiki.p2pfoundation.net/Benevolent_Dictator)
