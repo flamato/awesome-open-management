@@ -18,13 +18,14 @@ Though one can call any act of managing by open collaboration open management, t
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list about open companies.
 ## Advanced Foundations
 - [Cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
-    - [What is cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks. 
+    - [What is cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks.
+    - [Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - A crash course by BlockChannel.
 - [Peer Governance](http://wiki.p2pfoundation.net/Peer_Governance)
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
     - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
 ## Decision Making
-- [Benevolent Dictatorship](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
+- [Benevolent Dictatorship](http://wiki.p2pfoundation.net/Benevolent_Dictator)
     - [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 - [Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s cryptoeconomic primitives topic - A list of crypto readings and resources.
