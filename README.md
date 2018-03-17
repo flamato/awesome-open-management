@@ -21,8 +21,8 @@ Though one can call any act of managing by open collaboration open management, t
     - [What Is Cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks.
     - [Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - A crash course by BlockChannel.
 - [Peer Governance](http://wiki.p2pfoundation.net/Peer_Governance)
-    - [Open Source Guides](https://opensource.guide/) - Open source guides.
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
+    - [Open Source Guides](https://opensource.guide/) - Open source guides.
 ## Decision Making
 - [Benevolent Dictatorship](http://wiki.p2pfoundation.net/Benevolent_Dictator)
     - [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
