@@ -20,7 +20,7 @@ Though one can call any act of managing by open collaboration open management, t
 - Blockchain Governance
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s governance topic - A list of crypto readings and resources.
 - Cryptoeconomics
-- Open-Source Project Leadership
+- [Peer Governance](http://wiki.p2pfoundation.net/Peer_Governance)
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
     - [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Open source guides by The Linux Foundation.
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
