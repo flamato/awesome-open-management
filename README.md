@@ -18,7 +18,7 @@ Though one can call any act of managing by open collaboration open management, t
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list about open companies.
 ## Advanced Foundations
 - [Cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
-    - [What is cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks.
+    - [What Is Cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks.
     - [Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - A crash course by BlockChannel.
 - [Peer Governance](http://wiki.p2pfoundation.net/Peer_Governance)
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
