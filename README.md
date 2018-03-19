@@ -46,6 +46,7 @@ Though one can call any act of managing by open collaboration open management, t
 - [Forking](https://en.wikipedia.org/wiki/Fork_(software_development))
     - [Crypto Evolution](https://blog.ycombinator.com/crypto-evolution/) - Y Combinator's blog post on forks.
     - [Hard Forks, Soft Forks, Defaults and Coercion](https://vitalik.ca/general/2017/03/14/forks_and_markets.html) - Vitalk's intro to forking.
+    - [What the First Token Hostile Takeover Could Look Like](https://medium.com/@andy_bromberg/what-the-first-token-hostile-takeover-could-look-like-c40be3ccb6b5) - A post on network takovers by the CEO of CoinList.
 - [Fund Ideas, not Pedigree, to Find Fresh Insight](https://www.nature.com/articles/d41586-018-02743-2)
 
 ## License
