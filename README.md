@@ -23,6 +23,7 @@ Though one can call any act of managing by open collaboration open management, t
 - [Peer Governance](http://wiki.p2pfoundation.net/Peer_Governance)
     - [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla's best practices working open.
     - [Open Source Guides](https://opensource.guide/) - Open source guides.
+    - [Open Source Program Management Guides](https://github.com/todogroup/guides) - Open source program management guides.
 ## Decision Making
 - [Benevolent Dictatorship](http://wiki.p2pfoundation.net/Benevolent_Dictator)
     - [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
