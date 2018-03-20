@@ -11,14 +11,14 @@ Though one can call any act of managing by open collaboration open management, t
 ## Foundations
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s first three topics - A list of crypto readings and resources.
+- [Complexity Economics](https://en.wikipedia.org/wiki/Complexity_economics)
+    - [Complexity Economics Course](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCf7yNnXrHrtaBsa7GXqZAs) - An overview to complexity economics by Complexity Labs.
 - [Management](https://en.wikipedia.org/wiki/Management)
     - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - A list of resources on leading people and being a manager.
 - [Mechanism Design](https://en.wikipedia.org/wiki/Mechanism_design)
 - [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A list about open companies.
 ## Advanced Foundations
-- [Complexity Economics](https://en.wikipedia.org/wiki/Complexity_economics)
-    - [Complexity Economics Course](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCf7yNnXrHrtaBsa7GXqZAs) - An overview to complexity economics by Complexity Labs.
 - [Cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
     - [What Is Cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks.
     - [Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - A crash course by BlockChannel.
