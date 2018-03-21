@@ -14,7 +14,7 @@ Though one can call any act of managing by open collaboration open management, t
 - [Complexity Economics](https://en.wikipedia.org/wiki/Complexity_economics)
     - [Complexity Economics Course](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCf7yNnXrHrtaBsa7GXqZAs) - An overview to complexity economics by Complexity Labs.
 - [Management Science](https://en.wikipedia.org/wiki/Management_science)
-    - [Management](https://en.wikipedia.org/wiki/Management)
+    - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
     - [Knowledge Management](https://en.wikipedia.org/wiki/Knowledge_management)
 - [Mechanism Design](https://en.wikipedia.org/wiki/Mechanism_design)
 - [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
