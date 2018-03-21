@@ -13,8 +13,8 @@ Though one can call any act of managing by open collaboration open management, t
     - [a16z's Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)'s first three topics - A list of crypto readings and resources.
 - [Complexity Economics](https://en.wikipedia.org/wiki/Complexity_economics)
     - [Complexity Economics Course](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCf7yNnXrHrtaBsa7GXqZAs) - An overview to complexity economics by Complexity Labs.
-- [Management](https://en.wikipedia.org/wiki/Management)
-    - [Management Science](https://en.wikipedia.org/wiki/Management_science)
+- [Management Science](https://en.wikipedia.org/wiki/Management_science)
+    - [Management](https://en.wikipedia.org/wiki/Management)
     - [Knowledge Management](https://en.wikipedia.org/wiki/Knowledge_management)
 - [Mechanism Design](https://en.wikipedia.org/wiki/Mechanism_design)
 - [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
