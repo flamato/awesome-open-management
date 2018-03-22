@@ -20,10 +20,6 @@ Though one can call any act of managing by open collaboration open management, t
 - [Mechanism Design](https://en.wikipedia.org/wiki/Mechanism_design)
 - [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
     - [Awesome Open Company](https://github.com/opencompany/awesome-open-company) - A curated list of open companies.
-    - [Collective Intelligence](https://en.wikipedia.org/wiki/Collective_intelligence)
-    - [Open Innovation](https://en.wikipedia.org/wiki/Open_innovation)
-    - [Open Knowledge](https://en.wikipedia.org/wiki/Open_knowledge)
-    - [Open Research](https://en.wikipedia.org/wiki/Open_research)
 ## Advanced Foundations
 - [Cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
     - [What Is Cryptoeconomics?](https://blockgeeks.com/guides/what-is-cryptoeconomics/) - The ultimate beginners guide by Blockgeeks.
